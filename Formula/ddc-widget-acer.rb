@@ -1,8 +1,8 @@
 class DdcWidgetAcer < Formula
   desc "Unofficial menu bar app to control Acer monitors over DDC/CI"
   homepage "https://github.com/JustBoryata/ddc-widget-acer"
-  url "https://github.com/JustBoryata/ddc-widget-acer/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "611796dc332e67cd21689dbda99b01dee52460269f9bf42915bb44c4c594d26b"
+  url "https://github.com/JustBoryata/ddc-widget-acer/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "f69675cdaf035b8ba843c5bf3f319916e4a5d7f3c948fe256bf5041a50e87a8b"
   license "MIT"
 
   # DDC goes through IOAVService, which only exists on Apple Silicon.
